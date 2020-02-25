@@ -13,7 +13,7 @@ class Restrict extends CI_Controller{
         $this->template->show("login.php", $data);
     }
 
-    public function ajax_login(){
+   /* public function ajax_login(){
         $json = array();
         $json["status"] = 1;
         $json["error_list"] = array();
@@ -21,8 +21,5 @@ class Restrict extends CI_Controller{
         $username $this->input->post("username");
         $password $this->input->post("password");
 
-        
-
-
-    }
+    }*/
 }
