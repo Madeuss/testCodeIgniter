@@ -23,4 +23,4 @@ Configure o arquivo 'application/config/database.php'
 	'database' => 'dattebayo'
 Abra o projeto utilizando a url localhost/testCodeIgniter/
 ```
-* = personal config
+** = personal config
