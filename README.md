@@ -8,6 +8,7 @@ Projeto de uma página web de uma clínica qualquer utilizando o framework CodeI
 MySQL
 Padrão MVC
 'util.js' para eventos de autenticação
+Área restrita
 
 ```
 
