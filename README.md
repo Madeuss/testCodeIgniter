@@ -22,5 +22,7 @@ Configure o arquivo 'application/config/database.php'
 	'password' => 'your_password*'
 	'database' => 'dattebayo'
 Abra o projeto utilizando a url localhost/testCodeIgniter/
+
+* = personal config
 ```
-** = personal config
+
