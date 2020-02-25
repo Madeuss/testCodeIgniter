@@ -12,7 +12,7 @@ Padrão MVC
 
 ```
 
-**# Configuração do Projeto:**
+**Configuração do Projeto:**
 
 ```
 Configure o seu ambiente PHP (xampp/htdocs || Docker)
