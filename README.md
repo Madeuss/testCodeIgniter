@@ -17,9 +17,10 @@ Padrão MVC
 Configure o seu ambiente PHP (xampp/htdocs || Docker)
 Importe algum banco de dados que ainda nao coloquei lá, sem pressa
 Configure o arquivo 'application/config/database.php'
-  *'hostname'* => 'localhost'
-	*'username'* => 'you_user'
-	*'password'* => 'your_password'
-	*'database'* => 'dattebayo'
-  
-Abra o projeto utilizando a url *localhost/testCodeIgniter/*
+	'hostname' => 'localhost'
+	'username' => 'you_user*'
+	'password' => 'your_password*'
+	'database' => 'dattebayo'
+Abra o projeto utilizando a url localhost/testCodeIgniter/
+```
+* = personal config
