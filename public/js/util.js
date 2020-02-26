@@ -1,4 +1,4 @@
-const BASE_URL = "localhost/dattebayo/";
+const BASE_URL = "localhost/testCodeIgniter/";
 
 function clearErrors() {
     $(".has-error").removeClass("has-error");

@@ -6,3 +6,7 @@
     float: left;
     margin: 0 auto;
 }
+#btn-contact{
+    background: rgb(227, 119, 236);
+    color: snow;
+}
