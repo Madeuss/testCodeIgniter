@@ -12,6 +12,9 @@
 <!-- Custom Theme JavaScript -->
 <script src="<?php echo base_url(); ?>public/js/creative.js"></script>
 
+<!--Email Cotact Validation-->
+<script src="<?php echo base_url(); ?>public/js/validation.js"></script>
+
 <?php if(isset($scripts)){
         foreach ($scripts as $script_name){
             $src = base_url() . "public/js/" . $script_name; ?>

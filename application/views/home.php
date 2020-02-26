@@ -186,6 +186,10 @@
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
                 </div>
+                <div class="col-lg-12 text-center">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i><br>
+                    <a href="<?php echo base_url(); ?>contact" class="btn btn-default btn-xl wow tada" id="btn-contact">Contact Us</a>
+                </div>
             </div>
         </div>
     </section>
