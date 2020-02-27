@@ -103,13 +103,13 @@
                         <a class="page-scroll" href="<?php echo base_url(); ?>#about">Sobre</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="<?php echo base_url(); ?>#services">Services</a>
+                        <a class="page-scroll" href="<?php echo base_url(); ?>#services">Serviços</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="<?php echo base_url(); ?>#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="<?php echo base_url(); ?>#contact">Contact</a>
+                        <a class="page-scroll" href="<?php echo base_url(); ?>#contact">Contato</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="<?php echo base_url(); ?>restrict">LoginPage</a>

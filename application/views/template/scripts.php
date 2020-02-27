@@ -11,6 +11,8 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="<?php echo base_url(); ?>public/js/creative.js"></script>
+<!---->
+<script src="https://kit.fontawesome.com/8ce0be3cc7.js" crossorigin="anonymous"></script>
 
 <!--Email Cotact Validation-->
 <script src="<?php echo base_url(); ?>public/js/validation.js"></script>
